@@ -1,0 +1,160 @@
+.pictureHead{
+   width: 1440px;
+  height: 563px;
+  background-image: linear-gradient(111deg, #45efff, #8a1aae);
+}
+
+.krug{
+background-image: url('img/circle.png'); 
+background-repeat:no-repeat;
+  width: 956px;
+  height: 956px;
+}
+
+.oval{
+  display: inline-block;
+  float: left;
+  margin-left: 10%;
+  width: 40%;
+  height: 100%;
+  
+}
+
+.oval img{
+  margin-left: 126px
+}
+
+
+.hellobox{
+  display: inline-block;
+  float: right;
+}
+
+.hello {
+    display: inline-block;
+    float: left;
+    color: #fff;
+}
+
+
+.hello b {
+
+ width: 473px;
+  height: 94px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+
+}
+.hello p {
+   width: 473px;
+  height: 84px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+ .Rec1 {
+  padding-left:  28px;
+   width: 286px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7264ca;
+}
+ .Rec2 {
+  padding-left:  28px;
+    width: 141px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7264ca;
+}
+.layer {
+  width: 86px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+
+
+.hello input{
+  margin-top: 16px;
+   width: 334px;
+  height: 48px;
+  border-radius: 26px;
+  background-color: #ffffff;
+}
+
+.hello input:last-child{
+ width: 150px;
+  height: 48px;
+  border-radius: 26px;
+  background-color: #ff8fa1;
+  box-shadow: 0 0 12px 0 #ffffff;
+  margin-top: 16px;
+}
+
+.hello img{
+ float: right;
+width: 450px;
+height: 202px;
+object-fit: contain;
+}
+
+.hello1 p {
+  width: 423px;
+  height: 32px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.hello1 {
+  margin-top: 24px;
+}
+
+.hellobox img {
+   float: right;
+width: 450px;
+height: 202px;
+object-fit: contain;
+}
+
+}
